@@ -1,0 +1,19 @@
+pip install virtual env
+
+dsc it will help u to create saperate unique enviroment or sandbox 
+
+reate directory for jango project 
+open cmd from project root path
+
+4th on cmd virtualenv dev
+
+5 activate your dev env by firing below cmd
+for linux 
+source dev \bin activate
+windows
+dev\scripts activate
+
+6 th install requirement file( required packages)
+two file install jango
+pip install djangorestframework
+7 jango-admin start project bookshala
