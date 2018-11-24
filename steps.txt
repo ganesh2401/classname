@@ -1,5 +1,5 @@
 pip install virtual env
-
+ my edited data 
 dsc it will help u to create saperate unique enviroment or sandbox 
 
 reate directory for jango project 
